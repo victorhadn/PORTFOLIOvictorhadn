@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-size: cover;
+  background-image: url("Imagens/blackground.jpg"); width:100%; max-width:3000px;  margin-top:32px;
+  min-height: 50%;
+}
+
+.menu {
+  display: none;
+}
+
+.minhafoto {
+  position:relative;
+  top:5%;
+  left:50%;
+  margin-top:0px;
+  margin-left:-150px;
+  
+}
+
+.textobanner {
+  color: whitesmoke;
+  font-size:50px;
+  font-weight:bold;
+  font-family: Marker Felt, fantasy;
+}
+
+.textobanner2 {
+  color: darkgray;
+  font-size:20px;
+  font-family: Marker Felt, fantasy;
+}
